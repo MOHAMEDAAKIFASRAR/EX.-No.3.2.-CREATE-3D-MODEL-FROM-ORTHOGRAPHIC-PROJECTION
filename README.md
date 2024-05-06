@@ -1,5 +1,9 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+
 ## DATE:
+## NAME:MOHAMED AAKIF ASRAR S
+## REG NO:212223240088
+
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -42,6 +46,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+
+![EDM 3 2](https://github.com/MOHAMEDAAKIFASRAR/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/148514683/ccc4fa14-8876-42fc-bfcb-974670e81d89)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
