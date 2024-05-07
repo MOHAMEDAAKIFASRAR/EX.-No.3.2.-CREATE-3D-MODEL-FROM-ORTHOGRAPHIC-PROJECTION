@@ -1,8 +1,5 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 
-## DATE:06-05-2024
-## NAME:MOHAMED AAKIF ASRAR S
-## REG NO:212223240088
 
 ## AIM:
 To create a 3D model from given orthographic projection.
